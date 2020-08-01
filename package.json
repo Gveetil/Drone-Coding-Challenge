@@ -1,0 +1,19 @@
+{
+  "name": "drone-coding-challenge",
+  "version": "1.0.0",
+  "description": "This command-line Node.js application parses a text data file to count the number of targets found by a drone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gveetil/Drone-Coding-Challenge.git"
+  },
+  "author": "gveetil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gveetil/Drone-Coding-Challenge/issues"
+  },
+  "homepage": "https://github.com/Gveetil/Drone-Coding-Challenge#readme"
+}
